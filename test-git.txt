@@ -1,6 +1,5 @@
 ****************************************
            ***************
-              *********
 Hello Git! Hello Git! GO! GO! GO! 111111
 Hello Git! Hello Git! GO! GO! GO! 222222
 Hello Git! Hello Git! GO! GO! GO! 333333
@@ -8,6 +7,5 @@ Hello Git! Hello Git! GO! GO! GO! master
 Hello Git! Hello Git! GO! GO! GO! 666666
 Hello Git! Hello Git! GO! GO! GO! 888888
 Hello Git! Hello Git! GO! GO! GO! 999999
-              *********
            ***************
 ****************************************
