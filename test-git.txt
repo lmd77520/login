@@ -1,5 +1,6 @@
+****************************************
 Hello Git! Hello Git! GO! GO! GO! 111111
 Hello Git! Hello Git! GO! GO! GO! 222222
 Hello Git! Hello Git! GO! GO! GO! 333333
-Hello Git! Hello Git! GO! GO! GO! hot-fix
-Hello Git! Hello Git! GO! GO! GO! hot-fix
+Hello Git! Hello Git! GO! GO! GO! master
+****************************************
