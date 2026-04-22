@@ -1,5 +1,5 @@
-Hello Git! Hello Git! GO! GO! GO! 111111111111
-Hello Git! Hello Git! GO! GO! GO! 222222222222
-Hello Git! Hello Git! GO! GO! GO! 333333333333
-Hello Git! Hello Git! GO! GO! GO! 444444444444
-Hello Git! Hello Git! GO! GO! GO! 555555555555
+Hello Git! Hello Git! GO! GO! GO! 111111
+Hello Git! Hello Git! GO! GO! GO! 222222
+Hello Git! Hello Git! GO! GO! GO! 333333
+Hello Git! Hello Git! GO! GO! GO! 444444
+Hello Git! Hello Git! GO! GO! GO! 555555
